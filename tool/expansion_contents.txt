@@ -1,0 +1,214 @@
+EN
+ES
+FR
+DE
+Contents
+Manual Development Group
+© 2019 Yamaha Corporation
+Published 08/2019 PO-A0
+Voice List
+Voice-Liste
+Liste des voix
+Lista de voces ............................................................................................  2
+Style List
+Liste der Styles
+Liste des styles
+Lista de estilos...........................................................................................  3
+Multi Pad Bank List
+Multi-Pad-Bank-Liste
+Liste des banques multi-pads
+Lista de bancos de Multi Pad .....................................................................  3
+Pre-installed Expansion Contents List
+Liste der vorinstallierten Erweiterten Inhalte
+Liste des contenus Expansion préinstallés
+Lista de contenidos de ampliación preinstalados
+Digital Workstation
+PSR-SX900/SX700 Pre-installed Expansion Contents List2
+Voice List / Voice-Liste / Liste des voix / Lista de voces
+PSR-SX900/SX700
+Category Voice Name
+Voice Number
+Voice Type
+MSB LSB PC# 
+(1–128)
+African AfricanBigKit 126 0 52 Live!SFX
+BabyTalkingDrum 126 0 53 Live!SFX
+MotherTalkingDrum 126 0 54 Live!SFX
+Europe AccordionKabina1 49 4 13 Regular
+AccordionKabina2 49 9 10 Regular
+AccordionOrgan1 49 9 11 Regular
+BabyBass 49 5 12 Regular
+BajanCombi L+R 49 4 14 Regular
+BalalaikaPluck 49 4 15 Regular
+BalalaikaTrem 49 4 16 Regular
+BalkanClarinet 49 9 18 Regular
+BandurriaTrem 49 5 42 Regular
+BaritonStac 49 4 7 Regular
+BouzoukiPluck 49 2 13 Regular
+BraciMega 49 9 3 Live!
+BraciSpiccato 49 9 30 Live!
+ContrabasBun 49 9 6 Regular
+ContrabasShort 49 9 29 Regular
+CymbalonMega 49 9 1 Live!
+CymbalonOpenAll 49 9 25 Live!
+Drumbla&Whistles 49 9 42 Regular
+FatSawHook 49 9 43 Regular
+FatSawPad 49 9 46 Regular
+FiddleShort 49 4 20 Regular
+FlamGuitarRhy 49 5 9 Regular
+FlamGuitarSolo 49 5 8 Regular
+FujaraEndingVel 49 9 38 Regular
+GajdaCombiG 49 4 12 Regular
+ItalianBandon 49 5 1 Regular
+ItalianMaster 49 5 2 Regular
+ItalianTenorsax 49 5 4 Regular
+Jew'sHrp+Whistle 49 4 22 Regular
+JPShortSeq 49 9 47 Regular
+LaudFing&Trem 49 5 43 Regular
+LaudTrem 49 5 45 Regular
+NuTrumpet 49 4 1 Regular
+PortoGitLite 49 5 11 Regular
+PrimTamburaPluck 49 9 36 Regular
+TamburaTremTutti 49 4 18 Regular
+TamburaVeloSw 49 9 35 Regular
+TromboneStac 49 4 5 Regular
+TubaStac 49 4 8 Regular
+BalkanPercussion 126 1 12 SFX
+GochDrums 126 1 13 SFX
+BalkanPowerDrums 126 1 14 SFX
+FlamencoKit 126 1 16 SFX
+DancePowerKit 126 1 19 SFX
+RomaniaDrumkit 126 1 23 SFX
+EthnicPercKit2 126 1 27 SFX
+Latin America Trompeta 50 2 49 Regular
+TrompetaCorta 50 2 53 Regular
+BajoSexto 50 2 55 Regular
+AccNorteno 50 2 56 Regular
+BrasilKit1 126 0 98 Live!SFX
+Bateria-Tambora 126 1 45 SFX
+Gritos1 126 1 46 SFX
+Gritos2 126 1 48 SFX
+TrompetaMega 50 2 58 MegaVoice
+Trompeta S Mega 50 2 59 MegaVoice
+VihuelaMega 50 2 60 MegaVoice
+GuitarronMega 50 2 61 MegaVoice
+AccordionMega 50 2 62 MegaVoice
+Oriental NayLegato 8 34 78 S.Art!
+NeyAnbanLegTrl 8 41 112 S.Art!
+NeyAnbanLegato 8 42 112 S.Art!
+NayOverblow 104 2 78 Sweet!
+MizmarLegTril 8 37 112 S.Art!
+MizmarLegato 8 38 112 S.Art!
+MizmarTrill 104 2 112 Regular
+Zurnalegato 8 33 112 S.Art!
+ZokraLegTrill 8 35 112 S.Art!
+ZokraTrill 104 6 112 Regular
+KamanchehLeg 8 44 78 S.Art!
+KamanchehStrong 104 2 111 Live!
+OudTremolo 104 2 106 Regular
+Watariat1 104 2 49 Live!
+Watariat2 104 3 49 Live!
+Watariat3 104 4 49 Live!
+Watariat4 104 5 49 Live!
+Watariat5 104 7 49 Live!
+Watariat6 104 8 49 Live!
+Watariat7 104 9 49 Live!
+Watariat9 104 11 49 Live!
+Santur 104 2 16 Regular
+Qanoun1 104 0 108 Regular
+QanounTremolo 104 1 108 Regular
+Garmon 104 7 22 Regular
+MezwedLegGrc 8 39 112 S.Art!
+Solo3 0 109 81 Regular
+Solo4 0 108 81 Regular
+Brass2 0 122 63 Regular
+A3000KhaligiKit1 126 0 73 SFX
+KhaligiMixKit 126 0 66 SFX
+A3000PersianKit1 126 0 77 SFX
+A3000PersianKit2 126 0 79 SFX
+A3000ArabicKit1 126 0 76 SFX
+A3000ArabicKit2 126 0 78 SFX
+KhaligiKit 126 0 38 SFX
+PersianKit 126 0 39 SFX
+Category Voice Name
+Voice Number
+Voice Type
+MSB LSB PC# 
+(1–128)
+PSR-SX900/SX700 Pre-installed Expansion Contents List 3
+Style List / Liste der Styles / Liste des styles / Lista de estilos
+PSR-SX900/SX700
+Category Style Name
+African 01_HighLife
+02_PartyJuju
+03_AfroBeat
+04_HighLife2
+05_OrganHighLife
+06_IgboHighLife
+07_Azonto 
+08_ModernAfrobeat
+09_Makossa
+10_AfricanGospel
+Europe 01_Hora
+02_Sarba
+03_Dyskoteka PL
+04_Fisa Bajon
+05_Pizzica
+06_Saltarello
+07_Zouk
+08_BalalaikaWalz
+09_TroikaFolk RU
+10_Cerge HR
+11_Flam Buleria
+12_CsardasModern
+13_Mata HR
+14_Balkan Dance
+15_GypsyJazz
+16_MontiCzardas
+17_Scand Shuffle
+18_WaltzPolka
+19_Bk Brass Pop
+20_CaptainSax6-8
+21_TranceSylvan
+22_Syrtorumba
+23_Tsamikos
+24_Isa
+25_Fado
+26_PuertoRicoFolk
+Latin America 01_MariachiJoropo
+02_MariachiPolca
+03_MariValsFast
+04_MariachiValsSlow
+05_MariachiSlow2-4
+06_MariZapateado
+07_CumbiaDelNorte
+08_DelNorte2-4
+09_ValsDelNorte
+10_CumbiaBrusca
+11_CumbiaSonidera
+12_CumbiaSonora
+13_CumbiaTNT
+14_Punta
+15_TambitoPop
+16_ValsPeruano
+Oriental 01_ChaabiModern
+02_SaidiDance
+03_Dosari
+04_Khebaiti4-4
+05_6-8Pop
+Category Style Name
+Multi Pad Bank List / Multi-Pad-Bank-Liste / Liste des banques multi-pads / Lista de bancos de Multi Pad
+Category Bank Name
+Latin America CumbiaBrusca
+CumbiaSonidera
+CumbiaTNT
+Punta
+TambitoPop
+ValsPeruano
+Oriental IranianPerc1
+IranianPerc2
+KhaligiLoop1
+KhaligiLoop2
+KhaligiPerc1
+KhaligiPerc2
+PSR-SX900/SX700
