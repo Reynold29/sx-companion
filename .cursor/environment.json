@@ -1,0 +1,8 @@
+{
+  "name": "sx-companion",
+  "user": "ubuntu",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "install": "flutter --version && flutter pub get && flutter analyze && flutter test"
+}
