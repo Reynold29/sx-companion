@@ -79,7 +79,7 @@ class PresetLivePage extends ConsumerWidget {
                   ),
                   Text(
                     midi.arrangementPlaying
-                        ? 'Chords are running. Play guitar — ACMP follows the chart.'
+                        ? 'Chords are running. Play guitar — ACMP follows the chart. Stop chart leaves the style going.'
                         : 'Play a part to run its chord chart. Tap a part name to load sounds only.',
                     style: Theme.of(context).textTheme.bodySmall,
                   ),
@@ -129,13 +129,19 @@ class PresetLivePage extends ConsumerWidget {
               const SizedBox(width: 10),
               Expanded(
                 child: PadButton(
-                  label: 'STOP',
+                  label: 'STOP STYLE',
                   color: const Color(0xFFFF6B6B),
                   height: 64,
-                  onPressed: () => midi.stopArrangement(stopStyleToo: true),
+                  onPressed: midi.stopStyle,
                 ),
               ),
             ],
+          ),
+          const SizedBox(height: 8),
+          PadButton(
+            label: 'STOP CHART',
+            height: 56,
+            onPressed: midi.stopArrangement,
           ),
           const SizedBox(height: 8),
           PadButton(

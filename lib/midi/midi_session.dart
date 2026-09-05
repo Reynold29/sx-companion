@@ -450,9 +450,19 @@ class MidiSession extends ChangeNotifier {
     arrangementPartName = null;
     arrangementChordIndex = 0;
     stopPlayback();
-    _releaseChordNotes();
-    if (stopStyleToo) stopStyle();
+    _silenceClipNotes();
+    if (stopStyleToo) {
+      _releaseChordNotes();
+      stopStyle();
+    }
     notifyListeners();
+  }
+
+  void _silenceClipNotes() {
+    for (final ch in [0, 1]) {
+      send(MidiBytes.cc(channel: ch, controller: 123, value: 0));
+      send(MidiBytes.cc(channel: ch, controller: 64, value: 0));
+    }
   }
 
   void _startQueueStep() {
